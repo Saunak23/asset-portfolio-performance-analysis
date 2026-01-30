@@ -1,3 +1,4 @@
+Portfolio Asset Management
 1. Compared portfolio returns across asset classes often led to misleading conclusions due to differences in volatility and market exposure.
 
 2. Designed a portfolio analysis framework that accurately reflected risk-adjusted investor outcomes, not just absolute returns.
